@@ -6,5 +6,7 @@ The images that I used are in the alien_game folder as well but, any image can w
 
 ---
 Will hopefully add more functions to this project in the future but, it came out okay.
+
 [Twitter](https://twitter.com/home)
+
 [GitHub](https://github.com/joshthyng777)
